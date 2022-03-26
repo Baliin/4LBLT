@@ -4,5 +4,12 @@
   "success": true,
   "projectFilePath": "E:\\Лабы актуальные\\ПиОГИ\\4OTO\\4LBLT\\4LBPMLT\\4LBPMLT\\4LBPMLT.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша E:\\Лабы актуальные\\ПиОГИ\\4OTO\\4LBLT\\4LBPMLT\\4LBPMLT\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
