@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Лабы актуальные\\ПиОГИ\\4OTO\\4LBPMLT\\4LBPMLT\\4LBPMLT.csproj",
+      "projectUniqueName": "E:\\Лабы актуальные\\ПиОГИ\\4OTO\\4LBLT\\4LBPMLT\\4LBPMLT\\4LBPMLT.csproj",
       "projectName": "4LBPMLT",
-      "projectPath": "E:\\Лабы актуальные\\ПиОГИ\\4OTO\\4LBPMLT\\4LBPMLT\\4LBPMLT.csproj",
+      "projectPath": "E:\\Лабы актуальные\\ПиОГИ\\4OTO\\4LBLT\\4LBPMLT\\4LBPMLT\\4LBPMLT.csproj",
       "packagesPath": "C:\\Users\\gotot\\.nuget\\packages\\",
-      "outputPath": "E:\\Лабы актуальные\\ПиОГИ\\4OTO\\4LBPMLT\\4LBPMLT\\obj\\",
+      "outputPath": "E:\\Лабы актуальные\\ПиОГИ\\4OTO\\4LBLT\\4LBPMLT\\4LBPMLT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gotot\\AppData\\Roaming\\NuGet\\NuGet.Config",
